@@ -1,0 +1,25 @@
+
+.b{
+    background-color: rgb(213, 245, 255);
+}
+
+.container{
+    display:grid;
+     background-color: rgb(213, 245, 255);
+     width: 83%;
+     height: 68%;
+}
+    
+.image{
+    display: flex;
+    justify-content: center;
+    max-width: 1155px;
+    background-color:rgb(213, 245, 255);
+    margin: auto;
+}
+
+.image .h4{
+    color: rgb(16, 173, 212);
+    display: flex;
+    justify-content: center;
+}
